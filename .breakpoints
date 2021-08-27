@@ -1,0 +1,26 @@
+{
+  "files": {
+    "leitura .py": [
+      {
+        "id": "4bfbe114-4ed7-48e7-889f-4d5688a92f91",
+        "line": 14,
+        "version": 0,
+        "index": 290
+      }
+    ],
+    "main.py": [
+      {
+        "id": "dee11fc9-93d9-49d8-81b3-ea8d9d1101aa",
+        "line": 1,
+        "version": 2170,
+        "index": 0
+      },
+      {
+        "id": "04aa9e90-9865-42c8-bc8c-eac790f5dba1",
+        "line": 1,
+        "version": 2170,
+        "index": 0
+      }
+    ]
+  }
+}

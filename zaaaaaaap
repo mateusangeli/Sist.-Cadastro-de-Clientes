@@ -1,0 +1,83 @@
+Desenvolvimento de um sistema de cadastro de clientes
+Marcos, proprietário de uma microempresa no ramo de distribuição de alimentos, detectou demora excessiva na finalização de uma venda, devido à falta de uma estrutura rápida e funcional para 
+armazenamento, processamento e consulta de informações dos clientes. 
+
+Ciente da necessidade de automatizar os serviços de acesso às informações dos clientes, Marcos contatou uma empresa de desenvolvimento de sistemas para a elaboração de um projeto de implementação de um software que suprisse a referida necessidade.
+
+
+
+Perguntas a serem respondidas:
+
+• Qual o objetivo do sistema?
+R:Realizar o cadastro de clientes
+(Acho que tbm precisa de um sistema pra 'puxar' os dados dos clientes já cadastrados)
+
+
+• Quais os requisitos (funcionalidades)? Enumere-os.
+1-Menu (contendo nome, idade, ano de cadastro)
+2- 
+
+
+Qual o objetivo do sistema? 
+Organizar o acesso as informações dos clientes (basicamente)
+Funcionalidades:
+1. Organizar as fichas dos clientes já existentes
+2. Adicionar novos clientes
+3. Excluir clientes inativos ou que querem cancelar o cadastro
+4. Ferramenta de pesquisa por letra inicial do nome
+
+
+
+
+
+
+Produto:
+Obrigatorio(Parte mais facil na teoria)
+• Manual de instruções
+• Diagrama de Fluxo de dados
+• Um FAQ (Perguntas mais frequentes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import interface as i
+
+"""lista_de_dados=[]
+class Cadastro:
+  def __init__(self,nome,idade,ano):
+    self.nome=nome
+    self.idade=idade
+    self.ano=ano
+
+
+  def prints(self):
+    print ("Nome:",self.nome)
+    print ("Idade:",self.idade)
+    print ("Ano em que foi cadastrado:",self.ano)
+  
+ 
+while(True):
+  nome = input("Digite nome:")
+  idade = input("Digite a idade:")
+  ano = input("Digite o ano de cadastro:")
+  cadastro = Cadastro(nome, idade, ano)
+  print(cadastro)
+  lista_de_dados.append(cadastro)
+  os.system('clear')
+  for x in lista_de_dados:
+    x.prints()"""
+
+
+
+
